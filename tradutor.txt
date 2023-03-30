@@ -1,0 +1,7 @@
+Tradutor de codigo do jonas
+
+UI > category & product card /cardapio >>> cardapio backend
+login >>> login criar
+
+Restaurant.jsx >>> restaurante backend
+DescricaoSlider.jsx >>> Avaliar backend
